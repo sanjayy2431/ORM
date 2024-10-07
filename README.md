@@ -1,7 +1,7 @@
 # Ex02 Django ORM Web Application
-## Date: 03-10-2024
-## NAME: MOHAMED RASHITH S
-## REGISTER NO: 24001082
+## Date: 06-10-2024
+## NAME: SANJAY V
+## REGISTER NO: 23012749
 
 ## AIM
 To develop a Django application to store and retrieve data from a Bank database using Object Relational Mapping(ORM).
